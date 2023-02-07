@@ -19,8 +19,11 @@
 
 body
 {
-    background-image: url(./images/omkar-rane-8h18_CG-ht4-unsplash.jpg);
-    background:linear-gradient();
+    /* https://stackoverflow.com/questions/23208200/how-to-darken-a-background-using-css */
+    background:linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+      ), url(./images/omkar-rane-8h18_CG-ht4-unsplash.jpg);
     /* background-color: olive; */
     background-position: center;
     background-repeat: no-repeat;
