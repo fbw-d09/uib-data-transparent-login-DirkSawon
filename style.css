@@ -11,6 +11,11 @@
     /* flex-direction:column; */
 }
 
+body
+{
+    background-image: url(./mockup.png);
+}
+
 .container
 {
     width:1002px;
