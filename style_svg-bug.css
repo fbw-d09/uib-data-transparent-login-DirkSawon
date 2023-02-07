@@ -12,6 +12,11 @@
     /* flex-direction:column; */
 }
 
+.fa-solid
+{
+    font-size:36px;
+}
+
 body
 {
     background-image: url(./images/omkar-rane-8h18_CG-ht4-unsplash.jpg);
@@ -89,6 +94,7 @@ body
 #email, #password
 {
     width:750px;
+    padding-left:10px;
 }
 
 .email, .password
