@@ -15,6 +15,7 @@
 body
 {
     background-image: url(); /* ./mockup.png */
+    background:linear-gradient();
     background-color: olive;
     background-position: center;
     background-repeat: no-repeat;
