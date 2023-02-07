@@ -14,21 +14,25 @@
 body
 {
     background-image: url(./mockup.png);
+    /* background-color: olive; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container
 {
-    width:1002px;
-    height:746px;
+    width:100wv;
+    height:100vh;
     display:flex;
     flex-direction: column;
     /* justify-content: center; */
     align-items: center;
     /* background-image:url(./mockup.png); */
-    background-color:olive;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    /* background-color:olive; */
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
     
 }
 
