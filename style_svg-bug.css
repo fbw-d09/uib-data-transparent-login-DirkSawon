@@ -14,9 +14,9 @@
 
 body
 {
-    background-image: url(); /* ./mockup.png */
+    background-image: url(./images/omkar-rane-8h18_CG-ht4-unsplash.jpg);
     background:linear-gradient();
-    background-color: olive;
+    /* background-color: olive; */
     background-position: center;
     background-repeat: no-repeat;
     background-size:contain;
@@ -42,7 +42,7 @@ body
     display:flex;
     justify-content: center;
     align-items: center;
-    border-bottom:14px solid green;
+    border-bottom:14px solid darkblue;
     width:750px;
     font-size: 90px;
     font-weight: bold;
@@ -80,7 +80,7 @@ body
     color:white;
     background-color: transparent;
     border:none;
-    border-bottom: 6px solid green;
+    border-bottom: 6px solid darkblue;
     font-size:36px;
     font-weight: 550;
     width:400px;
@@ -98,7 +98,7 @@ body
     display:flex;
     justify-content:center;
     width:750px;
-    border:6px solid green;
+    border:6px solid darkblue;
     border-radius: 10px;
     padding:14px;
 }
